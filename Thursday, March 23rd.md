@@ -219,8 +219,17 @@ austin@Austins-MacBook-Pro Simple-HTML-Site (master)$
 
 ---
 
-### Forking
+## Assignment for Thursday (Due Tuesday the 28th)
 
-Forking a repository means copying the repository and making your own changes to it from your account. It won't affect any of the code from the original repository, but will allow you to experiment and make your own customized version of it.
+Our assignment for this weekend will be to complete the [JSBasics assignment](https://github.com/Montana-Code-School/JSBasics). This will help you better understand some of the functions and syntax of basic JavaScript, and there is also a testing tool you will run in your command line to check your answers.
 
-Once you make the changes that you need to make, you can then submit a *pull request*. A pull request will notify the owner of the repository of your changes, and will give them the opportunity to *pull* in what they think is appropriate.
+There are some instructions on the README of that repository, but the key is that you need to install NPM, and Mocha, globally on your computer.
+
+NPM is the node package manager, which we will be dealing with extensively over the next few months. You can install Node on Mac OS here [here](https://nodejs.org/en/download/current/). Or if you are using Ubuntu, you can download Node by running
+
+```
+curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+Once that is installed, you should be able to run `node -v` to confirm it is working.
