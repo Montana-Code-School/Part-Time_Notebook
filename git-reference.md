@@ -8,6 +8,8 @@
 
 [Repository](#term-repo)
 
+[Status](#term-status)
+
 [Pull](#term-pull)
 
 [Add](#term-add)
@@ -50,6 +52,26 @@ A repository exists alongside your project, and it is a collection of files that
 
 The repository on Github is known as a *remote repository*. The repository on your own computer is known as the *local repository*.
 
+<a name="term-status"></a>
+### Status
+
+**In Short: You can check what files have changed, and what files are staged and ready to be committed**
+
+`git status` is a command that will tell you about your local repository. It might be *behind*, it might have changed files, or files ready to commit.
+
+```
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	command-line-reference.md
+	git-reference.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
+
 <a name="term-pull"></a>
 ### Pull
 
@@ -77,9 +99,53 @@ Fast-forward
 ### Add
 **In Short: You can use add to finalize your changes, before committing and pushing them to Github**
 
+Changes on your *local repository* can be either staged or unstaged. You use **add** to change a file from unstaged to staged, which marks them as *ready to commit*. If you have a few changes you are comfortable with pushing to github, but a few that aren't quite there, you will want to add only those finished changes.
+
+Below, you can see that after I run `git status`, two files are "untracked". I then enter `git add git-reference.md`, and once I type `git status` again, I can confirm that `git-reference.md` shows up under "Changes to be committed:".
+
+```
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	command-line-reference.md
+	git-reference.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$ git add git-reference.md
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   git-reference.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	command-line-reference.md
+
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$
+```
+
 
 <a name="term-commit"></a>
 ### Commit
+
+**In Short: Commit will record changes to your repository**
+
+`git commit` will take your staged changes, and will add them to the record/history. This will usually include a brief message about what that change is about, so that you can more easily find what changes took place at a certain time. Once you are done with this, you are ready to **push** your commit to Github.
+
+```
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$ git commit -m "Added a reference page about git commands"
+[master 75fdb50] Added a reference page about git commands
+ 1 file changed, 114 insertions(+)
+ create mode 100644 git-reference.md
+
+```
 
 <a name="term-push"></a>
 ### Push
@@ -87,6 +153,18 @@ Fast-forward
 **In Short: Push will update the files on Github's servers.**
 
 When you have made changes on your *local repository*, you will want first **add** those files to staging, **commit** them, then **push** those changes to Github (the *remote repository*).
+
+```
+austin@Austins-MacBook-Pro Part-Time_Notebook (master)*$ git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.81 KiB | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local objects.
+To https://github.com/Montana-Code-School/Part-Time_Notebook.git
+   f6d3cdc..75fdb50  master -> master
+```
 
 
 
