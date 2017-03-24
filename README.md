@@ -7,3 +7,7 @@
 [Thursday, March 23rd](Thursday, March 23rd.md)
 
 ---
+
+### References
+
+[Git](git-reference.md)
