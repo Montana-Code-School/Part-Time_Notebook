@@ -10,4 +10,6 @@
 
 ### References
 
+[Command Line](command-line-reference.md)
+
 [Git](git-reference.md)
