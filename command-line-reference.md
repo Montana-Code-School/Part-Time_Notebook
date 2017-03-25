@@ -1,10 +1,22 @@
 # Command Line Reference  
 
+---
+
+## Table of Contents
+
+[What is the command line?](#what-is-commandline)
+
+[How do I find it?](#how-to-find)
+
+[Common Commands](#common-commands)
+
+<a name="what-is-commandline"></a>
 ### What is command line?
 
 The command line is simply a means for using lines of text to communicate with programs on your computer. If you haven't used it much yet, you will become very familiar with it as a programmer.
 
-### How can I get to it?
+<a name="how-to-find"></a>
+### How do I find it?
 
 For everyone on a Mac, it is called *Terminal*, and you can find this in your applications, or by pressing the `command + space` buttons to open up Spotlight Search, then type *Terminal*.
 
@@ -36,7 +48,14 @@ If you are looking for a file in your current folder, you will use `./folder-nam
 
 ---
 
+<a name="common-commands"></a>
 ### Common Commands
+
+#### sudo
+
+**sudo** is a command that allows you to override any file permissions and perform actions as the superuser.
+
+There is a reason some commands require sudo, at times you are performing operations that can be harmful. Don't use sudo without being sure about what you are doing.
 
 #### man
 
@@ -121,6 +140,8 @@ cp is the *copy* command, and works very similarly to the mv command.
 #### rm
 
 rm is the *remove* command, allow you to *delete* files from the command line.
+
+**WARNING: Files deleted with rm will not go to the trash! They will be gone!**
 
 ```
 austin@Austins-MacBook-Pro Desktop $ ls

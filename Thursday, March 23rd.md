@@ -216,7 +216,7 @@ austin@Austins-MacBook-Pro Simple-HTML-Site (master)$
 10. Now, once all changes are finished and you are ready to turn in your assignment, go to your forked repository and press "New Pull Request". You will then see a screen showing your changes, and once reviewing them, you can click "Create Pull Request".
 
 11. Now I will receive a message indicating that a pull-request was submitted, and you are done!
-
+<!--
 ---
 
 ## Assignment for Thursday (Due Tuesday the 28th)
@@ -232,4 +232,4 @@ curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-Once that is installed, you should be able to run `node -v` to confirm it is working.
+Once that is installed, you should be able to run `node -v` to confirm it is working. -->
