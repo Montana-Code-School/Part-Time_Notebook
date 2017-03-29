@@ -6,7 +6,9 @@
 
 [Thursday, March 23rd](Thursday, March 23rd.md)
 
-[Tuesday, March 28rd](Tuesday, March 28rd.md)
+### Week 2
+
+[Tuesday, March 28rd](Tuesday, March 28th.md)
 
 ---
 
