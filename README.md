@@ -10,6 +10,8 @@
 
 [Tuesday, March 28rd](Tuesday, March 28th.md)
 
+[Thursday, March 30th](Thursday, March 30th.md)
+
 ---
 
 ### References
