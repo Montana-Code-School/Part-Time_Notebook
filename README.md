@@ -12,6 +12,16 @@
 
 [Thursday, March 30th](Thursday, March 30th.md)
 
+### Week 3
+
+[Tuesday, April 4th](Tuesday, April 4th.md)
+
+[Thursday, April 6th](Thursday, April 6th)
+
+### Week 4
+
+[Tuesday, April 11th](Tuesday, April 11th.md)
+
 ---
 
 ### References
