@@ -22,6 +22,8 @@
 
 [Tuesday, April 11th](Tuesday, April 11th.md)
 
+[Thursday, April 13th](Thursday, April 13th.md)
+
 ---
 
 ### References
