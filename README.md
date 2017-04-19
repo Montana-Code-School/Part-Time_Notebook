@@ -24,6 +24,10 @@
 
 [Thursday, April 13th](Thursday, April 13th.md)
 
+### Week 5
+
+[Tuesday, April 18th](Tuesday, April 18th.md)
+
 ---
 
 ### References
