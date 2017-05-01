@@ -24,9 +24,15 @@
 
 [Thursday, April 13th](Thursday, April 13th.md)
 
-### Week 5
+### Week 5: React!
 
 [Tuesday, April 18th](Tuesday, April 18th.md)
+
+### Week 6: Javascript Fundamentals
+
+[Tuesday, April 25th](Tuesday, April 25th.md)
+
+
 
 ---
 
