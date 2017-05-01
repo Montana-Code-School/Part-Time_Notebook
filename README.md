@@ -2,41 +2,52 @@
 
 ### Week 1
 
-[Tuesday, March 21st](Tuesday, March 21st.md)
+[Tuesday, March 21st](class_outlines/Tuesday, March 21st.md)
 
-[Thursday, March 23rd](Thursday, March 23rd.md)
+[Thursday, March 23rd](class_outlines/Thursday, March 23rd.md)
 
 ### Week 2
 
-[Tuesday, March 28rd](Tuesday, March 28th.md)
+[Tuesday, March 28rd](class_outlines/Tuesday, March 28th.md)
 
-[Thursday, March 30th](Thursday, March 30th.md)
+[Thursday, March 30th](class_outlines/Thursday, March 30th.md)
 
 ### Week 3
 
-[Tuesday, April 4th](Tuesday, April 4th.md)
+[Tuesday, April 4th](class_outlines/Tuesday, April 4th.md)
 
-[Thursday, April 6th](Thursday, April 6th)
+[Thursday, April 6th](class_outlines/Thursday, April 6th)
 
 ### Week 4
 
-[Tuesday, April 11th](Tuesday, April 11th.md)
+[Tuesday, April 11th](class_outlines/Tuesday, April 11th.md)
 
-[Thursday, April 13th](Thursday, April 13th.md)
+[Thursday, April 13th](class_outlines/Thursday, April 13th.md)
 
 ### Week 5: React!
 
-[Tuesday, April 18th](Tuesday, April 18th.md)
+[Tuesday, April 18th](class_outlines/Tuesday, April 18th.md)
 
 ### Week 6: Javascript Fundamentals
 
-[Tuesday, April 25th](Tuesday, April 25th.md)
+This week we will be focusing on strengthening our fundamental JavaScript understanding.
 
+[Tuesday, April 25th](class_outlines/Tuesday, April 25th.md)
 
+### Week 7: Webpack, NodeJS, ES6, and React
+
+This week, we will be going back to Node, and learning a few new tools within it. This includes some new
+ES6 syntax, the Webpack module bundler, and we will get our feet wet with a Star Wars API project.
+
+[Tuesday, May 2nd](class_outlines/Tuesday, May 2nd.md)
+
+[Thursday, May 4th](class_outlines/Thursday, May 4th.md)
 
 ---
 
-### References
+### Collaborative Lists
+
+Feel free to edit any of these, adding new methods or solutions you come across! This should be a place where you can all set up a common reference point.
 
 [Command Line](command-line-reference.md)
 
