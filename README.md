@@ -43,6 +43,14 @@ ES6 syntax, the Webpack module bundler, and we will get our feet wet with a Star
 
 [Thursday, May 4th](class_outlines/Thursday, May 4th.md)
 
+### Week 8: MOBX and the Data Layer
+
+This week, we will be introduced to mobx, a state management library for Node. We will be building a simple stopwatch application and also explore how to integrate it with our past projects.
+
+[Tuesday, May 9th](class_outlines/Tuesday, May 9th.md)
+
+[Thursday, May 11th](class_outlines/Thursday, May 11th.md)
+
 ---
 
 ### Collaborative Lists
@@ -52,3 +60,5 @@ Feel free to edit any of these, adding new methods or solutions you come across!
 [Command Line](command-line-reference.md)
 
 [Git](git-reference.md)
+
+[JavaScript Functions](js-functions.md)
