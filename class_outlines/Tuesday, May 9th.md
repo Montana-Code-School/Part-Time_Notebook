@@ -93,3 +93,35 @@ You won't need to worry about state in every application you work on as a develo
 Through Thursday, we will be using mobx to incorporate a live twitter stream into our Star Wars React projects. Make a new component for the twitter stream and try pulling in tweets about Star Wars, it's characters, and the universe of the movie.
 
 Remember. Use the Twitter Streaming API, via the Twitter package on npm.
+
+## Caveats
+
+We will likely run into some issues with connecting our React project with the Twitter API. Here are some things that have helped me:
+
+* You might need to use json-loader through webpack (client)
+```
+rules: [
+    {
+        test: /\.json$/,
+        loader: 'json-loader'
+    },
+    {
+        test: /\.js$/,
+        loader: 'babel-loader',
+        options: {
+          presets:['es2015','react','stage-2'],
+          plugins:['transform-decorators-legacy']
+        }
+    }
+]
+```
+* You might need to specify `node` in webpack (client)
+```
+node: {
+  console: true,
+  fs: 'empty',
+  net: 'empty',
+  tls: 'empty'
+},
+```
+* You might want to check out the `request` npm package.
