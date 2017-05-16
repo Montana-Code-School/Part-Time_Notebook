@@ -51,6 +51,14 @@ This week, we will be introduced to mobx, a state management library for Node. W
 
 [Thursday, May 11th](class_outlines/Thursday, May 11th.md)
 
+### Week 9: MOBX Continued
+
+This week, we will be continuing with the Twitter assignment from the weekend. We will also focus on project planning and team management as we work on a simple Twitter streaming application.
+
+[Tuesday, May 16th](class_outlines/Tuesday, May 16th.md)
+
+[Thursday, May 18th](class_outlines/Thursday, May 18th.md)
+
 ---
 
 ### Collaborative Lists
