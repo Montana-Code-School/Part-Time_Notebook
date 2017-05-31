@@ -1,0 +1,6 @@
+# Whiteboard Questions
+
+**How would you diff two arrays?**
+You have the following two arrays: `[1, 2, 3, 5] [1, 2, 3, 4, 5]`
+You need to talk through how you would go about finding the differences in the
+the two arrays.
