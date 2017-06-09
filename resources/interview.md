@@ -42,7 +42,7 @@ or any other language.  It's not too much of an issue at least have a passing
 idea of what you might run into:
 
 Some outside resources to get you started:
-[Other Languages](./resources/languages)
+[Other Languages](languages.md)
 
 #### Past Work Experience
 

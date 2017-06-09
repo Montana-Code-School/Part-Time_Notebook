@@ -15,7 +15,7 @@ the two arrays.
 1. **The fizzbuzz challenge**
 
   Given the numbers 1-15 replace everything that is a divisible by `3` with
-  `'fizz'` everything that is divisible by `5` with `buzz` and everything that is
+  `fizz` everything that is divisible by `5` with `buzz` and everything that is
   divisible by both with `fizzbuzz`.  Explain how you would achieve this result.
 
 1. **How would you reverse a string**
