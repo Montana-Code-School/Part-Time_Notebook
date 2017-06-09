@@ -65,8 +65,16 @@ This week, we will be continuing with the Twitter assignment from the weekend. W
 
 Feel free to edit any of these, adding new methods or solutions you come across! This should be a place where you can all set up a common reference point.
 
-[Command Line](command-line-reference.md)
+[Command Line](/lists/command-line-reference.md)
 
-[Git](git-reference.md)
+[Git](/lists/git-reference.md)
 
-[JavaScript Functions](js-functions.md)
+[JavaScript Functions](/lists/js-functions.md)
+
+### Resources
+
+Collections of information for coding, interviews and learning.
+
+- [Interviews](/resources/command-line-reference.md)
+- [Learning](/resources/command-line-reference.md)
+- [Other Languges](/resources/not_js)
