@@ -1,4 +1,4 @@
-# Coding Languages
+# <a name="languages"></a> Coding Languages
 
 ******
 
@@ -21,7 +21,7 @@ Unity is awesome  'nuff said
 This is a bunch of Unity resources C# coding super awesome
 
 #### Ruby/Ruby-Rails
--[Viking School](https://www.vikingcodeschool.com/prep)
+- [Viking School](https://www.vikingcodeschool.com/prep)
 Completely free Ruby School
 
 #### Python
@@ -53,7 +53,6 @@ see above
   I don't think he succeeded, but he left behind a pretty awesome legacy
 - [Code Wars](https://www.codewars.com)
 Unleash your inner ninja and then let them loose on the code
-- [Kind Of like]
 
 #### Cool, but not free
 - [Pluralsight](https://www.pluralsight.com)
@@ -65,3 +64,10 @@ Some of these are free, I think if you pay your get a cert
 They have sales all the time, there are some pretty good classes on here
 - [Wes Bos](http://wesbos.com)
 He's got free resources for javascript, its in the Javascript resources above.
+
+## <a name="testing"></a> Testing Framework
+
+- [Mocha](https://mochajs.org/)
+for Javascript testing
+- [Chai](http://chaijs.com/)
+an extension of mocha

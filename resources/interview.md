@@ -1,8 +1,4 @@
-# Resources
-
 ### The Coding Interview
-
-*******
 
 #### Behavioral Questions
 
@@ -27,11 +23,18 @@ most part you will have a department that does that for you.  However, more and
 more with TDD and BDD the coder is the tester.  Even if you are not writing your
 own tests a good way to understand and communicate an idea is through tests.
 
+These questions are obviously not about computer code, which often involves
+specific libraries, programming languages and concepts that you might not know
+understanding how you might approach testing will inform this process.
+
 How would you test a rock?
 
 How would you test a tree?
 
 How would you test a blade of grass?
+
+More specifically there are some [testing frameworks](languages.md#testing) that you can start to learn
+if you like, they are in the languages file along with the coding languages
 
 #### Different Coding languages
 
@@ -42,7 +45,7 @@ or any other language.  It's not too much of an issue at least have a passing
 idea of what you might run into:
 
 Some outside resources to get you started:
-[Other Languages](languages.md)
+[Other Languages](languages.md#languages)
 
 #### Past Work Experience
 
@@ -50,3 +53,9 @@ While you might not have any relevant past work experience, you might have
 something that defines how you would approach a programming problem and you will
 definitely have an example of working with people or how you might work in a
 group.
+
+#### WhiteBoard Questions
+
+1. [Diff Arrays](whiteboard.md#diffArrays)
+2. [Fizz Buzz](whiteboard.md#fizzBuzz)
+3. [Reverse String](whiteboard.md#reverseString)
