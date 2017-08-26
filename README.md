@@ -62,7 +62,7 @@ Feel free to edit any of these, adding new methods or solutions you come across!
 ### Resources
 
 Collections of information for coding, interviews and learning.
-- [Interviews](./resources/interviews.md)
+- [Interviews](./resources/interview.md)
 - [Whiteboarding](./resources/whiteboard.md)
 - [Interests](./resources/interests.md)
-- [Other Languages](./resources/langauges.md)
+- [Other Languages](./resources/languages.md)
