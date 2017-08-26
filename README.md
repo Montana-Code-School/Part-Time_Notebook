@@ -62,6 +62,7 @@ Feel free to edit any of these, adding new methods or solutions you come across!
 ### Resources
 
 Collections of information for coding, interviews and learning.
-- [Interviews](./resources/command-line-reference.md)
-- [Learning](./resources/command-line-reference.md)
-- [Other Languges](./resources/not_js)
+- [Interviews](./resources/interviews.md)
+- [Whiteboarding](./resources/whiteboard.md)
+- [Interests](./resources/interests.md)
+- [Other Languages](./resources/langauges.md)
