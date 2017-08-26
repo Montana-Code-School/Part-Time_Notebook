@@ -2,9 +2,8 @@
 
 ### Week 1
 
-[Tuesday, March 21st](class_outlines/Tuesday, March 21st.md)
-
-[Thursday, March 23rd](class_outlines/Thursday, March 23rd.md)
+  - [Tuesday, March 21st](./class_outlines/Tuesday-March- 21st.md)
+  - [Thursday, March 23rd](./class_outlines/Thursday, March 23rd.md)
 
 ### Week 2
 
